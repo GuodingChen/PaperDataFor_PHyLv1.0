@@ -1,0 +1,1118 @@
+                         P_HydroLand
+ A massively parallel coupled hydrological-geotechnical framework
+                         Version V1.0          
+
+ Run start date and time (yyyy/mm/dd hh:mm:ss): 2022/12/29  3:45:44
+
+  --------All necessary data for the model has been read---------
+
+  ------parallel setup----------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 144
+  Thread for landslide: 48
+  ellipse density: 50
+
+  Running Style is Simulation!
+   Model Start Time: 2012070201    
+   Model End Time: 2012070920    
+
+ B =    5.00000007E-02
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.28560556174509499     
+
+   The results of the Outlet is: 
+      NSCE:   0.55266114982793746     
+      Bias(%):   -10.072825524267138     
+      CC:   0.78079378557901513     
+ Runoff_total:    17737.613373609805     
+ Hydrological runtime (s):    97.799698798800819     
+ Landslide runtime (s):    150.84117152995896     
+ B =   0.195000008    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.28506621233054485     
+
+   The results of the Outlet is: 
+      NSCE:   0.55567836623035860     
+      Bias(%):   -8.1347795299494425     
+      CC:   0.79375534649583424     
+ Runoff_total:    18119.881700707716     
+ Hydrological runtime (s):    90.942133455188014     
+ Landslide runtime (s):    158.16160258697346     
+ B =   0.340000033    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.28254669828054219     
+
+   The results of the Outlet is: 
+      NSCE:   0.62092350251708628     
+      Bias(%):   -4.7463277368277712     
+      CC:   0.82604938234656733     
+ Runoff_total:    18788.234155812665     
+ Hydrological runtime (s):    93.658314177533612     
+ Landslide runtime (s):    153.61600533896126     
+ B =   0.485000044    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.28017990781049357     
+
+   The results of the Outlet is: 
+      NSCE:   0.67650730640370726     
+      Bias(%):  -0.64446945143387113     
+      CC:   0.84596422354357725     
+ Runoff_total:    19597.301902062034     
+ Hydrological runtime (s):    106.08242508396506     
+ Landslide runtime (s):    154.38518377696164     
+ B =   0.630000055    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27767583612618196     
+
+   The results of the Outlet is: 
+      NSCE:   0.71240274348725241     
+      Bias(%):    3.4431695009660146     
+      CC:   0.85665072872695824     
+ Runoff_total:    20403.564967384322     
+ Hydrological runtime (s):    82.925661264103837     
+ Landslide runtime (s):    152.06443329295143     
+ B =   0.775000036    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27648960742956297     
+
+   The results of the Outlet is: 
+      NSCE:   0.73442059390364012     
+      Bias(%):    7.0758273713948716     
+      CC:   0.86344907096769330     
+ Runoff_total:    21120.085654261409     
+ Hydrological runtime (s):    84.585282729938626     
+ Landslide runtime (s):    152.32440139201935     
+ B =   0.920000076    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27495868812994934     
+
+   The results of the Outlet is: 
+      NSCE:   0.74723722220606437     
+      Bias(%):    10.171169549212600     
+      CC:   0.86812617023127847     
+ Runoff_total:    21730.623938481316     
+ Hydrological runtime (s):    84.617474554106593     
+ Landslide runtime (s):    153.46544132195413     
+ B =    1.06500006    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27270438608521014     
+
+   The results of the Outlet is: 
+      NSCE:   0.75408750222381771     
+      Bias(%):    12.793322215476955     
+      CC:   0.87149883444485621     
+ Runoff_total:    22247.828337173152     
+ Hydrological runtime (s):    105.33133745030500     
+ Landslide runtime (s):    154.92096736503299     
+ B =    1.21000004    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27158743552458142     
+
+   The results of the Outlet is: 
+      NSCE:   0.75711856667021471     
+      Bias(%):    15.027322319569647     
+      CC:   0.87404010138678168     
+ Runoff_total:    22688.471895185681     
+ Hydrological runtime (s):    120.12608273164369     
+ Landslide runtime (s):    149.80611329688691     
+ B =    1.35500002    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27081234210535265     
+
+   The results of the Outlet is: 
+      NSCE:   0.75770409756831814     
+      Bias(%):    16.945183034800081     
+      CC:   0.87602463671160447     
+ Runoff_total:    23066.758793106310     
+ Hydrological runtime (s):    103.71995345363393     
+ Landslide runtime (s):    158.55806643003598     
+ B =    1.50000000    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26988240000997377     
+
+   The results of the Outlet is: 
+      NSCE:   0.75672096277234335     
+      Bias(%):    18.605780616855206     
+      CC:   0.87761883295238086     
+ Runoff_total:    23394.302030746825     
+ Hydrological runtime (s):    78.738124754745513     
+ Landslide runtime (s):    156.52431041805539     
+
+ ------------------------------------------
+ coeM =    1.00000000    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27067831937192355     
+
+   The results of the Outlet is: 
+      NSCE:  -0.27493586112862034     
+      Bias(%):   -93.629820807347954     
+      CC:  -0.21310162796870116     
+ Runoff_total:    1256.4808835439067     
+ Hydrological runtime (s):    4.5209007591474801     
+ Landslide runtime (s):    154.92133130901493     
+ coeM =    15.8999996    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27069631185304988     
+
+   The results of the Outlet is: 
+      NSCE:   -8.0866783311180690E-002
+      Bias(%):   -40.250754388393986     
+      CC:   0.17528737347296627     
+ Runoff_total:    11785.192009001825     
+ Hydrological runtime (s):    16.217600758885965     
+ Landslide runtime (s):    157.40035903896205     
+ coeM =    30.7999992    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27003214845525342     
+
+   The results of the Outlet is: 
+      NSCE:   0.16575749684268526     
+      Bias(%):   -29.327322931381360     
+      CC:   0.46043991210337082     
+ Runoff_total:    13939.775481986431     
+ Hydrological runtime (s):    26.895989844575524     
+ Landslide runtime (s):    151.96333044196945     
+ coeM =    45.6999969    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27043860852101237     
+
+   The results of the Outlet is: 
+      NSCE:   0.34031915155903181     
+      Bias(%):   -12.004580771155437     
+      CC:   0.59706403350377646     
+ Runoff_total:    17356.585859941028     
+ Hydrological runtime (s):    37.042439512675628     
+ Landslide runtime (s):    152.53672997304238     
+ coeM =    60.5999985    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26975191910353807     
+
+   The results of the Outlet is: 
+      NSCE:   0.53886377404082264     
+      Bias(%):    1.6529173145649390     
+      CC:   0.73593983685709397     
+ Runoff_total:    20050.448111341979     
+ Hydrological runtime (s):    56.508415002725087     
+ Landslide runtime (s):    156.12180047098082     
+ coeM =    75.5000000    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26947480655957695     
+
+   The results of the Outlet is: 
+      NSCE:   0.69391631193667969     
+      Bias(%):    8.1062338830551361     
+      CC:   0.83436717179747855     
+ Runoff_total:    21323.327359875231     
+ Hydrological runtime (s):    73.058475548983552     
+ Landslide runtime (s):    160.83234885404818     
+ coeM =    90.3999939    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26989741735642570     
+
+   The results of the Outlet is: 
+      NSCE:   0.73832241897359840     
+      Bias(%):    15.193192481372698     
+      CC:   0.86554295117248392     
+ Runoff_total:    22721.188822159456     
+ Hydrological runtime (s):    85.466666746418923     
+ Landslide runtime (s):    154.43914286594372     
+ coeM =    105.299995    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26936826840361638     
+
+   The results of the Outlet is: 
+      NSCE:   0.74841344599955972     
+      Bias(%):    20.130765181814358     
+      CC:   0.87511883248584699     
+ Runoff_total:    23695.096387643556     
+ Hydrological runtime (s):    86.580748281674460     
+ Landslide runtime (s):    154.05349122104235     
+ coeM =    120.199997    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27038604780843079     
+
+   The results of the Outlet is: 
+      NSCE:   0.66007805189381252     
+      Bias(%):    31.613242050707569     
+      CC:   0.84590733766866777     
+ Runoff_total:    25959.948324327132     
+ Hydrological runtime (s):    98.817758480668999     
+ Landslide runtime (s):    153.29960320598911     
+ coeM =    135.099991    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27004645743630662     
+
+   The results of the Outlet is: 
+      NSCE:   0.62300834382388537     
+      Bias(%):    27.419722750143350     
+      CC:   0.82889662289969934     
+ Runoff_total:    25132.800974687550     
+ Hydrological runtime (s):    104.40673714678269     
+ Landslide runtime (s):    154.51326615491416     
+ coeM =    150.000000    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27043350829014196     
+
+   The results of the Outlet is: 
+      NSCE:   0.53380549459396498     
+      Bias(%):    29.191987749912386     
+      CC:   0.79387188083801763     
+ Runoff_total:    25482.369962535231     
+ Hydrological runtime (s):    113.98353316669818     
+ Landslide runtime (s):    161.72535064897966     
+
+ ------------------------------------------
+ expM =   0.100000001    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26965005615920878     
+
+   The results of the Outlet is: 
+      NSCE:   -1.6570746413010706     
+      Bias(%):    34.245900957768363     
+      CC:   0.51046134483409722     
+ Runoff_total:    26479.225018054854     
+ Hydrological runtime (s):    454.07874863781035     
+ Landslide runtime (s):    157.06580796896014     
+ expM =   0.145000011    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27005708291728669     
+
+   The results of the Outlet is: 
+      NSCE:   -1.6366385565493919     
+      Bias(%):    34.224888447126055     
+      CC:   0.51181117250135699     
+ Runoff_total:    26475.080422253250     
+ Hydrological runtime (s):    448.73838560411241     
+ Landslide runtime (s):    153.98830243805423     
+ expM =   0.189999998    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26974129362255800     
+
+   The results of the Outlet is: 
+      NSCE:   -1.4100519303229229     
+      Bias(%):    35.005652646656252     
+      CC:   0.53550985690923691     
+ Runoff_total:    26629.081630319226     
+ Hydrological runtime (s):    435.50942434219178     
+ Landslide runtime (s):    157.31956275599077     
+ expM =   0.235000014    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27001472266644605     
+
+   The results of the Outlet is: 
+      NSCE:   -1.1345814309021565     
+      Bias(%):    34.256320751852719     
+      CC:   0.55820521348825614     
+ Runoff_total:    26481.280261978376     
+ Hydrological runtime (s):    398.01390735048335     
+ Landslide runtime (s):    163.81171073205769     
+ expM =   0.280000001    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27027936797939056     
+
+   The results of the Outlet is: 
+      NSCE:  -0.93503494579845614     
+      Bias(%):    33.931402531477751     
+      CC:   0.56836422196066527     
+ Runoff_total:    26417.192028308724     
+ Hydrological runtime (s):    341.36792098812293     
+ Landslide runtime (s):    154.26657708303537     
+ expM =   0.325000018    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27058835696629202     
+
+   The results of the Outlet is: 
+      NSCE:  -0.67237675420742105     
+      Bias(%):    33.710606327051451     
+      CC:   0.57021524188316763     
+ Runoff_total:    26373.641258129337     
+ Hydrological runtime (s):    300.83117378794122     
+ Landslide runtime (s):    158.35332527605351     
+ expM =   0.370000005    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26985760722102020     
+
+   The results of the Outlet is: 
+      NSCE:   -5.7933296790441124E-002
+      Bias(%):    33.730203268730797     
+      CC:   0.66178631927460108     
+ Runoff_total:    26377.506641166667     
+ Hydrological runtime (s):    214.04418393375818     
+ Landslide runtime (s):    157.43726326595061     
+ expM =   0.414999992    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27096407397374855     
+
+   The results of the Outlet is: 
+      NSCE:   0.18938025040180229     
+      Bias(%):    32.537138782839634     
+      CC:   0.69043786493614123     
+ Runoff_total:    26142.181593939338     
+ Hydrological runtime (s):    166.56704251014162     
+ Landslide runtime (s):    157.04196758300532     
+ expM =   0.460000008    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27006841676366550     
+
+   The results of the Outlet is: 
+      NSCE:   0.63230851270786448     
+      Bias(%):    27.118927220411294     
+      CC:   0.83391739231658057     
+ Runoff_total:    25073.470801778167     
+ Hydrological runtime (s):    153.20191551442258     
+ Landslide runtime (s):    161.97339152498171     
+ expM =   0.505000055    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26967569898664079     
+
+   The results of the Outlet is: 
+      NSCE:   0.69077654475024319     
+      Bias(%):    8.4665354480882637     
+      CC:   0.83306804498475528     
+ Runoff_total:    21394.394752971060     
+ Hydrological runtime (s):    118.58897608937696     
+ Landslide runtime (s):    159.44125958601944     
+ expM =   0.550000012    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27065083479445501     
+
+   The results of the Outlet is: 
+      NSCE:   0.29094365470439276     
+      Bias(%):   -15.183880504212899     
+      CC:   0.56232081468428352     
+ Runoff_total:    16729.487435103805     
+ Hydrological runtime (s):    71.730785249499604     
+ Landslide runtime (s):    159.35519464802928     
+
+ ------------------------------------------
+ coeR =    1.00000000    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27005750793652594     
+
+   The results of the Outlet is: 
+      NSCE:    9.1339856161917199E-003
+      Bias(%):   -36.991082382290486     
+      CC:   0.30173417718796303     
+ Runoff_total:    12428.143398346827     
+ Hydrological runtime (s):    42.797889981418848     
+ Landslide runtime (s):    161.00737230805680     
+ coeR =    1.20000005    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27044753392503568     
+
+   The results of the Outlet is: 
+      NSCE:    8.3042832162690261E-002
+      Bias(%):   -34.060805722384281     
+      CC:   0.38504813453284031     
+ Runoff_total:    13006.123466931713     
+ Hydrological runtime (s):    56.266265742131509     
+ Landslide runtime (s):    151.41869932692498     
+ coeR =    1.39999998    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27012664439943646     
+
+   The results of the Outlet is: 
+      NSCE:   0.15295722969599279     
+      Bias(%):   -30.421771896355686     
+      CC:   0.45117033433511439     
+ Runoff_total:    13723.901774055124     
+ Hydrological runtime (s):    61.197471416671760     
+ Landslide runtime (s):    153.55452957097441     
+ coeR =    1.60000002    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27058538183161757     
+
+   The results of the Outlet is: 
+      NSCE:   0.19733847040428720     
+      Bias(%):   -26.208805141475132     
+      CC:   0.48954281973097408     
+ Runoff_total:    14554.885021217064     
+ Hydrological runtime (s):    60.607738425489515     
+ Landslide runtime (s):    155.03401872201357     
+ coeR =    1.79999995    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26951759182965684     
+
+   The results of the Outlet is: 
+      NSCE:   0.24808943900863478     
+      Bias(%):   -21.030229989306072     
+      CC:   0.52988126974766747     
+ Runoff_total:    15576.328921916345     
+ Hydrological runtime (s):    60.555284133879468     
+ Landslide runtime (s):    156.48545962793287     
+ coeR =    2.00000000    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26959027011956077     
+
+   The results of the Outlet is: 
+      NSCE:   0.29094367077023486     
+      Bias(%):   -15.183889927658667     
+      CC:   0.56232083410966727     
+ Runoff_total:    16729.485576383806     
+ Hydrological runtime (s):    81.205668295035139     
+ Landslide runtime (s):    167.37083313497715     
+ coeR =    2.20000005    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27013797824581526     
+
+   The results of the Outlet is: 
+      NSCE:   0.37958236606365570     
+      Bias(%):   -9.5940809914017766     
+      CC:   0.62670421472392679     
+ Runoff_total:    17832.042954859317     
+ Hydrological runtime (s):    73.589719918672927     
+ Landslide runtime (s):    152.32161360594910     
+ coeR =    2.40000010    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27009136780258253     
+
+   The results of the Outlet is: 
+      NSCE:   0.41330284876053325     
+      Bias(%):   -5.0080231610441395     
+      CC:   0.65123388213373867     
+ Runoff_total:    18736.616251842544     
+ Hydrological runtime (s):    76.839864968089387     
+ Landslide runtime (s):    156.51738733996172     
+ coeR =    2.59999990    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26974426875723240     
+
+   The results of the Outlet is: 
+      NSCE:   0.45209507638605162     
+      Bias(%):   -1.4736523769115606     
+      CC:   0.67930970778563970     
+ Runoff_total:    19433.750381246813     
+ Hydrological runtime (s):    87.649873389629647     
+ Landslide runtime (s):    157.44351739401463     
+ coeR =    2.80000019    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27070835406482735     
+
+   The results of the Outlet is: 
+      NSCE:   0.50500471686200044     
+      Bias(%):    1.1984508195690857     
+      CC:   0.71500885442452911     
+ Runoff_total:    19960.807232191804     
+ Hydrological runtime (s):    119.12045359169133     
+ Landslide runtime (s):    153.85971235902980     
+ coeR =    3.00000000    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26952297540668674     
+
+   The results of the Outlet is: 
+      NSCE:   0.55158681344765481     
+      Bias(%):    3.3671838070949756     
+      CC:   0.74641911317490350     
+ Runoff_total:    20388.577230166207     
+ Hydrological runtime (s):    102.98032115504611     
+ Landslide runtime (s):    157.87278004898690     
+
+ ------------------------------------------
+ coeS =    9.99999978E-03
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26976891987310625     
+
+   The results of the Outlet is: 
+      NSCE:   0.55698419095015517     
+      Bias(%):   -47.779498131207440     
+      CC:   0.79121504603719228     
+ Runoff_total:    10300.190990371513     
+ Hydrological runtime (s):    76.685726206051186     
+ Landslide runtime (s):    153.80858017597347     
+ coeS =   0.108999997    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26995550331911689     
+
+   The results of the Outlet is: 
+      NSCE:   0.60067256466697572     
+      Bias(%):   -35.939780391641527     
+      CC:   0.79966134508006814     
+ Runoff_total:    12635.506615947639     
+ Hydrological runtime (s):    88.378711484139785     
+ Landslide runtime (s):    153.37355373403989     
+ coeS =   0.208000004    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27039043967390258     
+
+   The results of the Outlet is: 
+      NSCE:   0.57870800915943277     
+      Bias(%):   -13.285565107677332     
+      CC:   0.76534670102664415     
+ Runoff_total:    17103.919132321258     
+ Hydrological runtime (s):    108.42353371041827     
+ Landslide runtime (s):    150.37790989107452     
+ coeS =   0.306999981    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27042089938604552     
+
+   The results of the Outlet is: 
+      NSCE:   0.55077113659625598     
+      Bias(%):    4.0579958299229224     
+      CC:   0.74610433547851440     
+ Runoff_total:    20524.835893314463     
+ Hydrological runtime (s):    106.03097256890032     
+ Landslide runtime (s):    157.60714852693491     
+ coeS =   0.405999988    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27050051965685645     
+
+   The results of the Outlet is: 
+      NSCE:   0.56959713253722510     
+      Bias(%):    14.051334256021564     
+      CC:   0.76124413446381201     
+ Runoff_total:    22495.963912705418     
+ Hydrological runtime (s):    86.848590633017011     
+ Landslide runtime (s):    149.40122204797808     
+ coeS =   0.504999995    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26948585705979622     
+
+   The results of the Outlet is: 
+      NSCE:   0.59542128124652116     
+      Bias(%):    21.913992685637652     
+      CC:   0.78164504641844545     
+ Runoff_total:    24046.827665807312     
+ Hydrological runtime (s):    94.568124785437249     
+ Landslide runtime (s):    155.30260005698074     
+ coeS =   0.603999972    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27013882828429364     
+
+   The results of the Outlet is: 
+      NSCE:   0.62167340915762070     
+      Bias(%):    26.754838704952633     
+      CC:   0.80204854279741966     
+ Runoff_total:    25001.656454684231     
+ Hydrological runtime (s):    101.07039771589916     
+ Landslide runtime (s):    156.47382168797776     
+ coeS =   0.703000009    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27039199807777964     
+
+   The results of the Outlet is: 
+      NSCE:   0.63328021673855328     
+      Bias(%):    29.065503158560979     
+      CC:   0.81158523745680244     
+ Runoff_total:    25457.421610802954     
+ Hydrological runtime (s):    100.77470338041894     
+ Landslide runtime (s):    158.91887940000743     
+ coeS =   0.801999986    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27047671857946104     
+
+   The results of the Outlet is: 
+      NSCE:   0.63933361375187348     
+      Bias(%):    30.885094289328997     
+      CC:   0.81771953276076104     
+ Runoff_total:    25816.325403385945     
+ Hydrological runtime (s):    102.53555148234591     
+ Landslide runtime (s):    156.00237628107425     
+ coeS =   0.900999963    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26994331943425970     
+
+   The results of the Outlet is: 
+      NSCE:   0.63423014920510012     
+      Bias(%):    31.689614259350375     
+      CC:   0.81671778327716493     
+ Runoff_total:    25975.012299341273     
+ Hydrological runtime (s):    104.50264066364616     
+ Landslide runtime (s):    148.55515207198914     
+ coeS =    1.00000000    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27021051486263947     
+
+   The results of the Outlet is: 
+      NSCE:   0.61877054045996394     
+      Bias(%):    32.181051110064416     
+      CC:   0.81115798529974004     
+ Runoff_total:    26071.945366640772     
+ Hydrological runtime (s):    106.12442363135051     
+ Landslide runtime (s):    153.91688891092781     
+
+ ------------------------------------------
+ KS =    1.00000005E-03
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26947409819417828     
+
+   The results of the Outlet is: 
+      NSCE:   0.10225759390230904     
+      Bias(%):   -16.999706119450487     
+      CC:   0.33369293473486328     
+ Runoff_total:    16371.326368610240     
+ Hydrological runtime (s):    110.69348159874789     
+ Landslide runtime (s):    154.38421175000258     
+ KS =   0.100900002    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26982969762431247     
+
+   The results of the Outlet is: 
+      NSCE:    5.8503502556639719E-002
+      Bias(%):    27.395488516396039     
+      CC:   0.30604364174248255     
+ Runoff_total:    25128.020912697149     
+ Hydrological runtime (s):    105.95749554259237     
+ Landslide runtime (s):    151.87856234598439     
+ KS =   0.200800002    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27029920221055342     
+
+   The results of the Outlet is: 
+      NSCE:    1.9022269828562033E-002
+      Bias(%):    31.681375186538329     
+      CC:   0.37089927027169700     
+ Runoff_total:    25973.387190035337     
+ Hydrological runtime (s):    109.72447753348388     
+ Landslide runtime (s):    156.19574493600521     
+ KS =   0.300699979    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27042061603988610     
+
+   The results of the Outlet is: 
+      NSCE:   0.10960690977159493     
+      Bias(%):    32.079548655554625     
+      CC:   0.48198582110392385     
+ Runoff_total:    26051.924596444627     
+ Hydrological runtime (s):    105.95424594671931     
+ Landslide runtime (s):    152.66957149305381     
+ KS =   0.400599986    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26976013614216271     
+
+   The results of the Outlet is: 
+      NSCE:   0.30206090475993130     
+      Bias(%):    32.159987675339764     
+      CC:   0.61281426345030499     
+ Runoff_total:    26067.790726359410     
+ Hydrological runtime (s):    106.16862859751564     
+ Landslide runtime (s):    151.84399746695999     
+ KS =   0.500500023    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26993836087646900     
+
+   The results of the Outlet is: 
+      NSCE:   0.48218036568396772     
+      Bias(%):    32.176958857514549     
+      CC:   0.72714399711573652     
+ Runoff_total:    26071.138193570121     
+ Hydrological runtime (s):    105.73735647997819     
+ Landslide runtime (s):    156.45920454501174     
+ KS =   0.600399971    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27050774498392294     
+
+   The results of the Outlet is: 
+      NSCE:   0.61921942249857476     
+      Bias(%):    32.181062683862919     
+      CC:   0.81143020058680471     
+ Runoff_total:    26071.947649505371     
+ Hydrological runtime (s):    100.28777182579506     
+ Landslide runtime (s):    156.53517688496504     
+ KS =   0.700299978    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26996074522306712     
+
+   The results of the Outlet is: 
+      NSCE:   0.70338468767485129     
+      Bias(%):    32.183560542512232     
+      CC:   0.86313068135971194     
+ Runoff_total:    26072.440337630422     
+ Hydrological runtime (s):    107.98661100468598     
+ Landslide runtime (s):    155.72906145895831     
+ KS =   0.800199986    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26990719279892739     
+
+   The results of the Outlet is: 
+      NSCE:   0.72390864675275335     
+      Bias(%):    32.185459157257171     
+      CC:   0.88287590943133798     
+ Runoff_total:    26072.814828372375     
+ Hydrological runtime (s):    121.38290469103958     
+ Landslide runtime (s):    153.83942852495238     
+ KS =   0.900099993    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27080766689372138     
+
+   The results of the Outlet is: 
+      NSCE:   0.66443629255630932     
+      Bias(%):    32.186800007464214     
+      CC:   0.87072228282762743     
+ Runoff_total:    26073.079303295588     
+ Hydrological runtime (s):    106.64214358257595     
+ Landslide runtime (s):    170.10297581891064     
+ KS =    1.00000000    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27058779027397306     
+
+   The results of the Outlet is: 
+      NSCE:   0.50050053570417463     
+      Bias(%):    32.187588830166661     
+      CC:   0.82657079194538696     
+ Runoff_total:    26073.234893996596     
+ Hydrological runtime (s):    105.53464408416767     
+ Landslide runtime (s):    156.40012400003616     
+
+ ------------------------------------------
+ KI =    1.00000005E-03
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27019606420850650     
+
+   The results of the Outlet is: 
+      NSCE:   0.38463195116336812     
+      Bias(%):   -49.308728958153580     
+      CC:   0.77331360026113904     
+ Runoff_total:    9998.5590829362809     
+ Hydrological runtime (s):    96.233871778938919     
+ Landslide runtime (s):    160.82896151801106     
+ KI =   0.100900002    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26962710512029175     
+
+   The results of the Outlet is: 
+      NSCE:   0.41661295562943812     
+      Bias(%):    12.914199327860043     
+      CC:   0.76604862419827746     
+ Runoff_total:    22271.670646215658     
+ Hydrological runtime (s):    104.55981056112796     
+ Landslide runtime (s):    156.48816983704455     
+ KI =   0.200800002    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27006260816739636     
+
+   The results of the Outlet is: 
+      NSCE:   0.48190275250916503     
+      Bias(%):    30.287279037093185     
+      CC:   0.80917015264748771     
+ Runoff_total:    25698.409813634291     
+ Hydrological runtime (s):    148.15713583282195     
+ Landslide runtime (s):    164.01990499696694     
+ KI =   0.300699979    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27077479873922294     
+
+   The results of the Outlet is: 
+      NSCE:   0.50451460373043711     
+      Bias(%):    32.971659628332702     
+      CC:   0.84025277469309034     
+ Runoff_total:    26227.888309457347     
+ Hydrological runtime (s):    150.59252885717433     
+ Landslide runtime (s):    158.94433675997425     
+ KI =   0.400599986    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26971295900661102     
+
+   The results of the Outlet is: 
+      NSCE:   0.46363216558421128     
+      Bias(%):    33.612776483574855     
+      CC:   0.85469582334528049     
+ Runoff_total:    26354.344889149605     
+ Hydrological runtime (s):    150.38239244534634     
+ Landslide runtime (s):    157.58464925503358     
+ KI =   0.500500023    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26997547922335952     
+
+   The results of the Outlet is: 
+      NSCE:   0.35705554170341136     
+      Bias(%):    33.824173036105606     
+      CC:   0.85472650714161480     
+ Runoff_total:    26396.041632532953     
+ Hydrological runtime (s):    151.30196460161824     
+ Landslide runtime (s):    154.07534839899745     
+ KI =   0.600399971    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27036012163483936     
+
+   The results of the Outlet is: 
+      NSCE:   0.20011432119102179     
+      Bias(%):    33.902219973378678     
+      CC:   0.84665290482606870     
+ Runoff_total:    26411.435938052000     
+ Hydrological runtime (s):    128.60651109763421     
+ Landslide runtime (s):    158.42952561797574     
+ KI =   0.700299978    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26987347460595051     
+
+   The results of the Outlet is: 
+      NSCE:    3.4248862772551347E-002
+      Bias(%):    33.528879785494105     
+      CC:   0.83547920208629245     
+ Runoff_total:    26337.796752253780     
+ Hydrological runtime (s):    121.38316134898923     
+ Landslide runtime (s):    152.50494006602094     
+ KI =   0.800199986    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26992334353001712     
+
+   The results of the Outlet is: 
+      NSCE:  -0.16825037027920242     
+      Bias(%):    33.981053539398040     
+      CC:   0.82463113382354380     
+ Runoff_total:    26426.985401526937     
+ Hydrological runtime (s):    145.77863503526896     
+ Landslide runtime (s):    162.46981766098179     
+ KI =   0.900099993    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.26975758602672750     
+
+   The results of the Outlet is: 
+      NSCE:  -0.33808832027711033     
+      Bias(%):    34.003852865162386     
+      CC:   0.81446819945981375     
+ Runoff_total:    26431.482436243579     
+ Hydrological runtime (s):    120.65503213601187     
+ Landslide runtime (s):    162.28323594597168     
+ KI =    1.00000000    
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27010085989892474     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996168     
+      Bias(%):    34.017565896611359     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128653     
+ Hydrological runtime (s):    117.28131423296873     
+ Landslide runtime (s):    151.49583698296919     
+
+ ------------------------------------------
+ De =           10
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.18059095808403594     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611380     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128657     
+ Hydrological runtime (s):    105.62266397080384     
+ Landslide runtime (s):    31.116274753003381     
+ De =           30
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.24231494378978888     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996168     
+      Bias(%):    34.017565896611316     
+      CC:   0.80505728751176464     
+ Runoff_total:    26434.187252128646     
+ Hydrological runtime (s):    110.37969998363405     
+ Landslide runtime (s):    92.308069647988304     
+ De =           50
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.27020853143952317     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611380     
+      CC:   0.80505728751176531     
+ Runoff_total:    26434.187252128660     
+ Hydrological runtime (s):    101.93412970786449     
+ Landslide runtime (s):    156.05630799406208     
+ De =           70
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.28763828709312911     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611380     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128657     
+ Hydrological runtime (s):    106.32707328302786     
+ Landslide runtime (s):    216.67932971497066     
+ De =           90
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.30072547950670570     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996501     
+      Bias(%):    34.017565896611337     
+      CC:   0.80505728751176531     
+ Runoff_total:    26434.187252128650     
+ Hydrological runtime (s):    136.28170193266124     
+ Landslide runtime (s):    274.00287608406506     
+ De =          110
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.31012024644315567     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611380     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128657     
+ Hydrological runtime (s):    100.65520129119977     
+ Landslide runtime (s):    336.16148771892767     
+ De =          130
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.31802078740764333     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611380     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128657     
+ Hydrological runtime (s):    88.981884988956153     
+ Landslide runtime (s):    405.16222165105864     
+ De =          150
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.32535151924543787     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611380     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128657     
+ Hydrological runtime (s):    112.90609195374418     
+ Landslide runtime (s):    462.17263461998664     
+ De =          170
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.33081117471917565     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611359     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128653     
+ Hydrological runtime (s):    119.51566516084131     
+ Landslide runtime (s):    533.09882293292321     
+ De =          190
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.33621416096101953     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996501     
+      Bias(%):    34.017565896611316     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128646     
+ Hydrological runtime (s):    146.39351988781709     
+ Landslide runtime (s):    596.45455491798930     
+ De =          210
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.34042964344852678     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996168     
+      Bias(%):    34.017565896611316     
+      CC:   0.80505728751176464     
+ Runoff_total:    26434.187252128646     
+ Hydrological runtime (s):    121.06463444360998     
+ Landslide runtime (s):    694.00631580094341     
+ De =          230
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.34408438388644391     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611380     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128657     
+ Hydrological runtime (s):    106.46697648114059     
+ Landslide runtime (s):    739.47098859201651     
+ De =          250
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.34794865880928877     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611380     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128657     
+ Hydrological runtime (s):    132.80395529768430     
+ Landslide runtime (s):    755.34344143897761     
+ De =          270
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.35053617593756409     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611380     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128657     
+ Hydrological runtime (s):    105.96227629645728     
+ Landslide runtime (s):    828.30633621406741     
+ De =          290
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.35392173752398526     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996501     
+      Bias(%):    34.017565896611359     
+      CC:   0.80505728751176497     
+ Runoff_total:    26434.187252128653     
+ Hydrological runtime (s):    121.04971094860230     
+ Landslide runtime (s):    860.81719324109145     
+ De =          310
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.35624942622402705     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996168     
+      Bias(%):    34.017565896611316     
+      CC:   0.80505728751176464     
+ Runoff_total:    26434.187252128646     
+ Hydrological runtime (s):    134.26968739379663     
+ Landslide runtime (s):    958.67811970994808     
+ De =          330
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.35883028471755490     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996501     
+      Bias(%):    34.017565896611316     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128646     
+ Hydrological runtime (s):    131.75507324119098     
+ Landslide runtime (s):    1024.5226958581479     
+ De =          350
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.36122385139967333     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48576400814826792     
+      Bias(%):    33.980778536744353     
+      CC:   0.80506774486224564     
+ Runoff_total:    26426.931158849166     
+ Hydrological runtime (s):    134.47202144074254     
+ Landslide runtime (s):    1079.8403105370235     
+ De =          370
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.36309237764829488     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48419084713858140     
+      Bias(%):    33.991694206423759     
+      CC:   0.80507156408526659     
+ Runoff_total:    26429.084211356552     
+ Hydrological runtime (s):    123.43394297524355     
+ Landslide runtime (s):    1145.5987757749390     
+ De =          390
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.36588135389595300     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580885704996457     
+      Bias(%):    34.017565896611359     
+      CC:   0.80505728751176509     
+ Runoff_total:    26434.187252128653     
+ Hydrological runtime (s):    112.22105365688913     
+ Landslide runtime (s):    1213.8837881051004     
+ De =          410
+ Loading States at date: 2012070200    
+ Unstable_percentage:   0.36707679134275478     
+
+   The results of the Outlet is: 
+      NSCE:  -0.48580838819340055     
+      Bias(%):    34.016945235487420     
+      CC:   0.80505770452085934     
+ Runoff_total:    26434.064830323270     
+ Hydrological runtime (s):    119.24296625657007     
+ Landslide runtime (s):    1273.5233687800355     
+
+ ------------------------------------------
+
+
+ Run end date and time (yyyy/mm/dd hh:mm:ss): 2022/12/29 17:57:32
+ Elapsed run time: 14 Hours, 11 Minutes, 47 Seconds
+

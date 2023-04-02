@@ -1,0 +1,326 @@
+ 
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 1
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    3.2143136691302061     
+ Landslide runtime (s):    4800.6659920061938     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 2
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    3.5630106991156936     
+ Landslide runtime (s):    2461.8499261736870     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 4
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    2.6072675217874348     
+ Landslide runtime (s):    1274.2119931569323     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 6
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    2.1270521110855043     
+ Landslide runtime (s):    882.38105346215889     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 8
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    2.2341223610565066     
+ Landslide runtime (s):    683.76808751374483     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 10
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9091897825710475     
+ Landslide runtime (s):    584.90600291593000     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 12
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9392672535032034     
+ Landslide runtime (s):    484.72460871422663     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 14
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9426071550697088     
+ Landslide runtime (s):    429.02897534752265     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 16
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9283700673840940     
+ Landslide runtime (s):    383.66524091595784     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 18
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9225791590288281     
+ Landslide runtime (s):    367.31498808600008     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 20
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.8895877669565380     
+ Landslide runtime (s):    326.19874854478985     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 22
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9217634289525449     
+ Landslide runtime (s):    315.90137944743037     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 24
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    2.0812397655099630     
+ Landslide runtime (s):    277.91540731722489     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 26
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9182656398043036     
+ Landslide runtime (s):    262.27876772731543     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 28
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9447806756943464     
+ Landslide runtime (s):    262.92322063632309     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 30
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    2.2581988465972245     
+ Landslide runtime (s):    243.43994785146788     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 32
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9168462157249451     
+ Landslide runtime (s):    225.41846610559151     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 34
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9518013056367636     
+ Landslide runtime (s):    205.30109659302980     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 36
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9431837406009436     
+ Landslide runtime (s):    208.40126490220428     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 38
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9910820089280605     
+ Landslide runtime (s):    208.24558980111033     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 40
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    2.1250963602215052     
+ Landslide runtime (s):    200.46834722207859     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 42
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    2.0866208383813500     
+ Landslide runtime (s):    198.60164007218555     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 44
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    2.1386895528994501     
+ Landslide runtime (s):    193.07376024452969     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 46
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9913419126532972     
+ Landslide runtime (s):    182.67155492957681     
+ -----------------------------
+  Subbasin number: 4
+  Thread for hydrology: 4
+  Total tile numbber for landslide: 96
+  Thread for landslide: 48
+  landslide density: 50
+           1  2012-07-02 01:00:00
+           2  2012-07-02 02:00:00
+           3  2012-07-02 03:00:00
+           4  2012-07-02 04:00:00
+           5  2012-07-02 05:00:00
+ Hydrological runtime (s):    1.9227572637610137     
+ Landslide runtime (s):    173.95641630003229     
+ -----------------------------
